@@ -1,16 +1,16 @@
-### Hi there 👋
+# ![Visits Badge](https://visitor-badge.glitch.me/badge?page_id=wangdengwu_github_home) Hey! Nice to see you.  
 
-<!--
-**wangdengwu/wangdengwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my page! 
+I'm wangdengwu,Fullstack developer from 🇨🇳China,currently live in Xi'an.
 
-Here are some ideas to get you started:
+![wangdengwu's GitHub stats](https://github-readme-stats.vercel.app/api?username=wangdengwu&count_private=true&hide=stars&show_icons=true&theme=tokyonight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wangdengwu&layout=compact)
+
+<!-- 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wangdengwu)](https://git.io/streak-stats)
+ -->
+ 
+ <!-- 
+![Visits Badge](https://badges.pufler.dev/visits/wangdengwu/chinese_idioms)
+ -->
