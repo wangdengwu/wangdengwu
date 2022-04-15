@@ -1,4 +1,4 @@
-# ![Visits Badge](https://visitor-badge.glitch.me/badge?page_id=wangdengwu_github_home) Hey! Nice to see you.  
+# Hey! Nice to see you.  
 
 Welcome to my page! 
 I'm wangdengwu,Fullstack developer from 🇨🇳China,currently live in Xi'an.
