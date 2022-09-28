@@ -1,7 +1,7 @@
 # Hey! Nice to see you.  
 
 Welcome to my page! 
-I'm wangdengwu,Fullstack developer from 🇨🇳China,currently live in Xi'an.
+I'm Dengwu Wang (Dennis), Fullstack developer from 🇨🇳China, currently live in Xi'an.
 
 ![wangdengwu's GitHub stats](https://github-readme-stats.vercel.app/api?username=wangdengwu&count_private=true&hide=stars&show_icons=true&theme=tokyonight)
 
