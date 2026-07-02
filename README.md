@@ -9,5 +9,3 @@ I'm Dengwu Wang (Dennis), Fullstack developer from 🇨🇳China, currently live
 </picture>
 
 _generated with [Platane/snk](https://github.com/Platane/snk)_
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wangdengwu&layout=compact)
